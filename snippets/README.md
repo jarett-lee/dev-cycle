@@ -24,14 +24,47 @@ are ours. See `../CLAUDE.md` for the conventions.
 
 ## To collect
 
-Relevant sources that haven't been captured yet.
+Relevant sources that haven't been captured yet, mostly because their sites
+were unreachable from the environment used so far. Dates come from search
+results and should be confirmed when the page is fetched.
 
-From the second half of 2026:
+Anthropic:
 
 - Addy Osmani, Morgan Westlee Lunt and Qing Wang, "How the Claude Code team
   does code review" (October 2026): risk-tiered human approval for code that
   is mostly Claude-written.
   https://claude.dev/blog/solving-code-review-at-anthropic/
+
+OpenAI:
+
+- "Harness engineering: leveraging Codex in an agent-first world" (February
+  2026): https://openai.com/index/harness-engineering/
+- Codex best practices (docs): https://developers.openai.com/codex/learn/best-practices
+- "Building an AI-Native Engineering Team" (Codex guide):
+  https://developers.openai.com/codex/guides/build-ai-native-engineering-team
+
+GitHub Copilot:
+
+- "Automate repository tasks with GitHub Agentic Workflows" (February 2026):
+  https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/
+
+Discussed on Hacker News:
+
+- Drew Breunig, "What should we do when code is cheap? 10 Lessons for Agentic
+  Coding" (May 2026): https://dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
+  (discussion: https://news.ycombinator.com/item?id=48019025)
+- Lars Faye, "Agentic Coding Is a Trap" (around May 2026):
+  https://news.ycombinator.com/item?id=48002442
+- Martin Monperrus, "The End of Code Review: Coding Agents Supersede Human
+  Inspection" (arXiv, June 2026): https://arxiv.org/abs/2606.13175
+  (discussion: https://news.ycombinator.com/item?id=48649183)
+- "AI coding agents generate more code, but not more software" (October 2026):
+  https://news.ycombinator.com/item?id=50059523
+- Simon Willison, "Agentic Engineering Patterns" (guide started February 2026,
+  updated since): https://simonwillison.net/guides/agentic-engineering-patterns/
+
+Other 2026:
+
 - Birgitta Böckeler, "TDD inside the agent loop - theater or actual value?"
   (August 2026): https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html
 - "Beyond Code Generation: Reliability, Verification, and Cost Economics in
