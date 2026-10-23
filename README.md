@@ -4,14 +4,18 @@ Defining a good software development cycle for Claude: how an engineer and
 Claude split the work from idea to merged change, and which design principles
 Claude holds itself to along the way.
 
-## Starting point
+## What we're exploring
 
-The engineers who built Anthropic's new source control system rate Claude as
-better at writing code than they are. They still own the high-level design, the
-tradeoffs, and the judgment to tell Claude "no", and they review the *intent* of
-a change rather than every line
-([Redesigning source control at Anthropic](snippets/anthropic-redesigning-source-control.md)).
-A good cycle makes that division of labor work.
+Which parts of the cycle humans should own when working with Claude. Current
+candidates:
+
+- high-level design
+- tradeoffs
+- the judgment to tell Claude "no"
+- reviewing the intent of a change
+- keeping invariants
+
+The [snippets](snippets/) collect what others have reported so far.
 
 ## Layout
 

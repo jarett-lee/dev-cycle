@@ -68,8 +68,8 @@ Code is read far more often than it is written. Clear names, small focused
 functions, and comments that explain *why* rather than *what* (*Clean Code*,
 Robert C. Martin).
 
-**For Claude:** reviewers now check the intent of a change rather than every
-line, so the code and the change description have to make that intent obvious.
+**For Claude:** if reviewers check the intent of a change rather than every
+line, the code and the change description have to make that intent obvious.
 See [PEP 8](snippets/pep-8-consistency.md) and
 [Google's code review standard](snippets/google-code-review-standard.md).
 

@@ -27,8 +27,8 @@ working with Claude changed the engineers' role.
 
 ## Takeaways
 
-- Claude writes the code; the engineer owns the system-level design and
-  tradeoffs.
+- The engineers rated Claude the better coder but kept the system-level design
+  and tradeoffs.
 - Saying "no" is core engineering work. Claude will extend a bad pattern if it
   sees one, so the cycle needs a point where a human checks changes against
   system constraints.
